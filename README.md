@@ -12,4 +12,8 @@ https://www.npmjs.com/package/dropdown-gs
 
 # Exemple
 
-import Dropdown from 'dropdown-gs/dist/components/Dropdown';
+
+![20220702095503](https://user-images.githubusercontent.com/75996200/176992033-16cd62ee-c7cb-42d3-9706-3f436b4d8304.png)
+
+
+![20220702095537](https://user-images.githubusercontent.com/75996200/176992040-775b4016-5ee8-430d-8a2a-09531679fcad.png)
