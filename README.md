@@ -9,3 +9,7 @@ Run the following command: 'npm i dropdown-gs'
 # Lien
 
 https://www.npmjs.com/package/dropdown-gs
+
+# Exemple
+
+import Dropdown from 'dropdown-gs/dist/components/Dropdown';
